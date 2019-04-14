@@ -4,7 +4,7 @@ COMP9321 19T1 Assignment 3
 ## How to run this project
 1. **Install requirements:** `pip3 install -r requirements.txt`
 2. **Run backend:** `python3 run.py`
-3. **Open another terminal, and typing:** `cd frontend`
+3. **Open another terminal, and:** `cd frontend`
 4. **Install React framework and modules:** `npm i`
 5. **Run frontend:** `npm start`
 
