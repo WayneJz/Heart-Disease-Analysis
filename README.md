@@ -1,6 +1,11 @@
 # Heart-Disease-Analysis
 COMP9321 19T1 Assignment 3
 
+Group: Master Branch
+
+## Introduction
+A machine learning project based on [UCIrvine ML dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/), including machine learning implementation, backend and frontend, which allows users to input attributes to predict heart diseases. The project has such key function: dataset display, attribute correlations display, training accuracy display and prediction.
+
 ## How to run this project
 1. **Install requirements:** `pip3 install -r requirements.txt`
 2. **Run backend:** `python3 run.py`
